@@ -1,1 +1,12 @@
-{}
+{
+  "routes": [
+    {
+      "route": "/",
+      "methods": [
+        "get",
+        "head"
+      ],
+      "redirect": "/Default.html"
+    }
+  ]
+}
